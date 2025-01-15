@@ -1,2 +1,4 @@
 # .gitignore 내용
 .env
+git add .gitignore
+git commit -m "Add sensitive file to .gitignore"
