@@ -2,3 +2,6 @@
 .env
 git add .gitignore
 git commit -m "Add sensitive file to .gitignore"
+
+# Firebase 서비스 계정 키 파일 무시
+config/firebaseServiceAccountKey.json
